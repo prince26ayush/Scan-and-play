@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #D5E8FF;
+   
+}
+
+.rectangle{
+    position: absolute;
+    height:100px;
+    width:100px;
+    background-color: #7498F8;
+    text-align: center;
+    border: 2px solid black;
+    margin:10% 10% 10% 45%;
+    
+}
+
+.rectangle a{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    
+}
+
+h4{
+    /* margin-top: 50px; */
+    padding-top: 40%;
+}
